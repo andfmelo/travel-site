@@ -1,0 +1,167 @@
+[
+{
+ID: "id_bike_01",
+PRODUCT_NAME: "MTM bike 22",
+GRAPH_NAME: "Bikers-ABC",
+COST: 759,
+MSRP: 1299,
+QTY_HAND: 6,
+QTY_BO: 25,
+DESC: "Amazing mountain bike for kids",
+BRAND: "Argon 18"
+},
+{
+ID: "id_bike_02",
+PRODUCT_NAME: "MTM bike 24",
+GRAPH_NAME: "Bikers-777",
+COST: 659,
+MSRP: 1199,
+QTY_HAND: 8,
+QTY_BO: 28,
+DESC: "Amazing mountain bike for youth",
+BRAND: "Argon 18"
+},
+{
+ID: "id_bike_03",
+PRODUCT_NAME: "MTM bike 26",
+GRAPH_NAME: "Bikers-XYZ",
+COST: 759,
+MSRP: 1299,
+QTY_HAND: 16,
+QTY_BO: 2,
+DESC: "Amazing mountain bike for adults",
+BRAND: "Argon 18"
+},
+{
+ID: "id_bike_04",
+PRODUCT_NAME: "MTM bike Pro Charge",
+GRAPH_NAME: "Bikers-000",
+COST: 1759,
+MSRP: 2299,
+QTY_HAND: 1,
+QTY_BO: 10,
+DESC: "Pro bike endurance",
+BRAND: "Argon 18"
+},
+{
+ID: "id_bike_05",
+PRODUCT_NAME: "Electric bike 22",
+GRAPH_NAME: "Bikers-ELE",
+COST: 3759,
+MSRP: 4299,
+QTY_HAND: 16,
+QTY_BO: 5,
+DESC: "Electric bike",
+BRAND: "Argon 18"
+},
+{
+ID: "id_bike_06",
+PRODUCT_NAME: "Alex bike 22",
+GRAPH_NAME: "Bikers-ABC",
+COST: 1159,
+MSRP: 2299,
+QTY_HAND: 36,
+QTY_BO: 15,
+DESC: "Amazing mountain bike for kids",
+BRAND: "Alex Singer"
+},
+{
+ID: "id_bike_07",
+PRODUCT_NAME: "Alex bike 24",
+GRAPH_NAME: "Bikers-777",
+COST: 2659,
+MSRP: 3199,
+QTY_HAND: 28,
+QTY_BO: 0,
+DESC: "Amazing mountain bike Alex for youth",
+BRAND: "Alex Singer"
+},
+{
+ID: "id_bike_08",
+PRODUCT_NAME: "Alex bike 26",
+GRAPH_NAME: "Bikers-XYZ",
+COST: 1759,
+MSRP: 2299,
+QTY_HAND: 10,
+QTY_BO: 1,
+DESC: "Amazing mountain bike for adults",
+BRAND: "Alex Singer"
+},
+{
+ID: "id_bike_09",
+PRODUCT_NAME: "Alex bike Pro Charge",
+GRAPH_NAME: "Bikers-000",
+COST: 2759,
+MSRP: 3299,
+QTY_HAND: 1,
+QTY_BO: 10,
+DESC: "Pro bike endurance Alex",
+BRAND: "Alex Singer"
+},
+{
+ID: "id_bike_10",
+PRODUCT_NAME: "Electric bike 22 Alex",
+GRAPH_NAME: "Bikers-ELE",
+COST: 5759,
+MSRP: 6299,
+QTY_HAND: 36,
+QTY_BO: 15,
+DESC: "Electric bike Alex",
+BRAND: "Alex Singer"
+},
+{
+ID: "id_bike_11",
+PRODUCT_NAME: "Battaglin bike 22",
+GRAPH_NAME: "Bikers-ABC",
+COST: 6159,
+MSRP: 7299,
+QTY_HAND: 26,
+QTY_BO: 19,
+DESC: "Amazing battaglin bike for kids",
+BRAND: "Battaglin"
+},
+{
+ID: "id_bike_12",
+PRODUCT_NAME: "Battaglin bike 24",
+GRAPH_NAME: "Bikers-777",
+COST: 5659,
+MSRP: 6199,
+QTY_HAND: 18,
+QTY_BO: 1,
+DESC: "Amazing mountain bike Battaglin for youth",
+BRAND: "Battaglin"
+},
+{
+ID: "id_bike_13",
+PRODUCT_NAME: "Battaglin bike 26",
+GRAPH_NAME: "Bikers-XYZ",
+COST: 7759,
+MSRP: 8299,
+QTY_HAND: 13,
+QTY_BO: 10,
+DESC: "Amazing mountain bike Battaglin for adults",
+BRAND: "Battaglin"
+},
+{
+ID: "id_bike_14",
+PRODUCT_NAME: "Battaglin bike Pro Charge",
+GRAPH_NAME: "Bikers-000",
+COST: 10759,
+MSRP: 13299,
+QTY_HAND: 5,
+QTY_BO: 15,
+DESC: "Pro bike endurance Battaglin",
+BRAND: "Battaglin"
+},
+{
+ID: "id_bike_15",
+PRODUCT_NAME: "Electric bike 22 Battaglin",
+GRAPH_NAME: "Bikers-ELE",
+COST: 25759,
+MSRP: 26299,
+QTY_HAND: 2,
+QTY_BO: 3,
+DESC: "Electric bike Battaglin",
+BRAND: "Battaglin"
+}
+]
